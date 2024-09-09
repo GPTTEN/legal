@@ -1,4 +1,4 @@
-![MIT License](./mit-license.png)
+![MIT License](./mit-logo.png)
 
 Copyright (c) [2024] [GPT TEN LLC]
 
