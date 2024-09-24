@@ -3,9 +3,10 @@
 Copyright (c) [2024]
 
 [GPT TEN LLC]
-Alejandro del Rio Santiago
-alejandro@gptten.com
-8735 DUNWOODY PLACE STE N. ATLANTA, GA, 30350, USA
+
+[Alejandro del Rio Santiago (alejandro@gptten.com)]
+
+[8735 DUNWOODY PLACE STE N. ATLANTA, GA, 30350, USA]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
